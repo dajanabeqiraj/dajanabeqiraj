@@ -29,7 +29,7 @@
 
 <h2>💼 Work and Experience:</h2>
 <ul>
-  <li><b>First work at Tring (Albanian Satellite Communication)</b>
+  <li><b> Work at Tring (Albanian Satellite Communication)</b>
     <ul>
       <li>Technical Support</li>
       <li>Engineer at Network Management Center</li>
@@ -38,6 +38,12 @@
 </ul>
 
 <h2>🤳 Connect with Me:</h2>
+<ul>
+  <li>Email: <a href="mailto:dajanabeqiraj183@gmail.com">dajanabeqiraj183@gmail.com</a></li>
+  <li>University Email: <a href="mailto:dajana_beqiraj@universitetipolis.edu.al">dajana_beqiraj@universitetipolis.edu.al</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/dajana-beqiraj" target="_blank">Dajana Beqiraj</a></li>
+</ul>
+
 <!-- Mund të shtosh këtu një email, LinkedIn ose tjetër link kontakti -->
 
 
