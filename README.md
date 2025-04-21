@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dajana! <br/>
-<a href="https://github.com/joshmadakor1">Computer science student, NMC Engineer</a></h1>
+<a href="https://github.com/dajanabeqiraj">Computer science student, NMC Engineer</a></h1>
 
 <h2>👨‍💻 Education:</h2>
 <ul>
@@ -11,8 +11,8 @@
 <ul>
   <li><b>Full Stack Web App</b>
     <ul>
-      <li><a href="https://github.com/joshmadakor1/Algorithms-Practice">Practising: Javascript, HTML, CSS, PHP</a></li>
-      <li><a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Booking Hotel Website</a></li>
+      <li><a href="https:">Practising: Javascript, HTML, CSS, PHP</a></li>
+      <li><a href="https:">Booking Hotel Website</a></li>
     </ul>
   </li>
   <li><b>Python</b>
