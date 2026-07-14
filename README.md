@@ -17,12 +17,12 @@
   </li>
   <li><b>Python</b>
     <ul>
-      <li><a href="https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm">Face Recognition Model (Data Structures and Algorithms Demo)</a></li>
+      <li><a href="https:">Face Recognition Model (Data Structures and Algorithms Demo)</a></li>
     </ul>
   </li>
   <li><b>Java</b>
     <ul>
-      <li><a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Hospitality Management Database System</a></li>
+      <li><a href="https:">Hospitality Management Database System</a></li>
     </ul>
   </li>
 </ul>
@@ -47,20 +47,3 @@
 <!-- Mund të shtosh këtu një email, LinkedIn ose tjetër link kontakti -->
 
 
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
