@@ -17,7 +17,7 @@
   </li>
   <li><b>Python</b>
     <ul>
-      <li><a href="https:">Face Recognition Model (Data Structures and Algorithms Demo)</a></li>
+      <li><a href="https://github.com/dajanabeqiraj/face-recognition-model">Face Recognition Model (Data Structures and Algorithms Demo)</a></li>
     </ul>
   </li>
   <li><b>Java</b>
