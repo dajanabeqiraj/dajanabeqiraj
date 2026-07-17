@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dajana! <br/>
-<a href="https://github.com/dajanabeqiraj">Computer science student, NMC Engineer</a></h1>
+<a href="https://github.com/dajanabeqiraj">Junior software developer</a></h1>
 
 <h2>👨‍💻 Education:</h2>
 <ul>
@@ -44,6 +44,5 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/dajana-beqiraj" target="_blank">Dajana Beqiraj</a></li>
 </ul>
 
-<!-- Mund të shtosh këtu një email, LinkedIn ose tjetër link kontakti -->
 
 
