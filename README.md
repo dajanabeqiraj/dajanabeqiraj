@@ -11,8 +11,7 @@
 <ul>
   <li><b>Full Stack Web App</b>
     <ul>
-      <li><a href="https:">Practising: Javascript, HTML, CSS, PHP</a></li>
-      <li><a href="https:">Booking Hotel Website</a></li>
+      <li><a href="https:">ROSEA e-commerce platform</a></li>
     </ul>
   </li>
   <li><b>Python</b>
